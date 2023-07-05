@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a professor in the Department of Mathematics & Statistics at the University of Guelph in Guelph, Canada.
+---
+> My partner is jealous that I code with Julia.
 
 <!--
 **allanwillms/allanwillms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
